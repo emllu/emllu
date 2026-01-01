@@ -60,12 +60,6 @@ A passionate software developer and aspiring **AI Engineer** who enjoys building
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emllu&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emllu&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect!
 - 💼 LinkedIn: https://www.linkedin.com/in/eman-asfaw/  
